@@ -11,6 +11,7 @@ namespace TP1_Fernandez
         int Codigo;
         int CantSalas;
         Categoria CatDeposito;
+        ubicacion ubicacion;
 
     }
 }
